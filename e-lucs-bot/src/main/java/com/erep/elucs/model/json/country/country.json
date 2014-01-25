@@ -1,0 +1,11 @@
+{
+    "id": 35,
+    "name": "Poland",
+    "code": "PL",
+    "active_citizens": 12982,
+    "new_citizens_today": 100,
+    "average_citizen_level": 22,
+    "online_now": 342,
+    "citizen_fee": 5,
+    "region_count": 4
+}

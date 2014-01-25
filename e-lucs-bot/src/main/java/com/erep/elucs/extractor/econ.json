@@ -1,0 +1,86 @@
+{
+    "id": 1,
+    "name": "Romania",
+    "code": "RO",
+    "treasury": {
+        "gold": 26.98,
+        "cc": 212416.23
+    },
+    "bonuses": {
+        "food": 0.6,
+        "frm": 0.6,
+        "weapons": 0.4,
+        "wrm": 0.4
+    },
+    "taxes": {
+        "food": {
+            "income": 10,
+            "import": 5,
+            "vat": 8
+        },
+        "weapons": {
+            "income": 10,
+            "import": 5,
+            "vat": 5
+        },
+        "tickets": {
+            "income": 10,
+            "import": 99,
+            "vat": 10
+        },
+        "frm": {
+            "income": 10,
+            "import": 1,
+            "vat": null
+        },
+        "wrm": {
+            "income": 10,
+            "import": 1,
+            "vat": null
+        },
+        "hospital": {
+            "income": 10,
+            "import": 1,
+            "vat": 1
+        },
+        "defense": {
+            "income": 10,
+            "import": 1,
+            "vat": 1
+        }
+    },
+    "embargoes": [
+        {
+            "country": {
+                "id": 9,
+                "name": "Brazil",
+                "code": "BR"
+            },
+            "expires": "29 days"
+        },
+        {
+            "country": {
+                "id": 40,
+                "name": "Ukraine",
+                "code": "UA"
+            },
+            "expires": "31 days"
+        },
+        {
+            "country": {
+                "id": 59,
+                "name": "Thailand",
+                "code": "TH"
+            },
+            "expires": "4 months"
+        },
+        {
+            "country": {
+                "id": 47,
+                "name": "South Korea",
+                "code": "KR"
+            },
+            "expires": "more than a year"
+        }
+    ]
+}
