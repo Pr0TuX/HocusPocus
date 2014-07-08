@@ -6,6 +6,7 @@ import org.pircbotx.PircBotX;
 
 /**
  * @author dragos
+ * generic about info command
  */
 public class AboutInfoCmd extends ProfileInfoCmd {
     public AboutInfoCmd(PircBotX botX, ErepUserService erepUserService) {
