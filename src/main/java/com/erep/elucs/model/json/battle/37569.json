@@ -1,0 +1,610 @@
+{
+    "id": 37569,
+    "url": "http:\/\/www.erepublik.com\/en\/military\/battlefield\/37569",
+    "region": {
+        "id": 36,
+        "name": "Crisana"
+    },
+    "is_resistance": false,
+    "attacker": {
+        "id": 13,
+        "name": "Hungary",
+        "code": "HU",
+        "points": 48,
+        "divisions": {
+            "1": {
+                "points": 3,
+                "bar": 57.00267945361,
+                "domination": 830,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 6247179,
+                        "name": "TodorBosa",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/07\/06\/54053f23ab30cf71c5dd86e02ef15312_100x100.jpg",
+                        "birth": "2012-07-06",
+                        "country": {
+                            "id": 42,
+                            "name": "Bulgaria",
+                            "code": "BG"
+                        },
+                        "damage": 609028,
+                        "kills": 59
+                    },
+                    {
+                        "id": 6896070,
+                        "name": "Dapaj",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/12\/26\/c47cd4bb24eae82ab8c03b30dbbb7bd5_100x100.jpg",
+                        "birth": "2012-12-26",
+                        "country": {
+                            "id": 79,
+                            "name": "Republic of Macedonia (FYROM)",
+                            "code": "MK"
+                        },
+                        "damage": 134200,
+                        "kills": 41
+                    },
+                    {
+                        "id": 6923610,
+                        "name": "Mickrobi",
+                        "avatar": "http:\/\/www.erepublik.com\/images\/default_avatars\/Citizens\/default_male_55x55.gif",
+                        "birth": "2013-01-03",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 129943,
+                        "kills": 22
+                    },
+                    {
+                        "id": 5495490,
+                        "name": "nasko69",
+                        "avatar": "http:\/\/www.erepublik.com\/images\/default_avatars\/Citizens\/default_male_55x55.gif",
+                        "birth": "2011-12-29",
+                        "country": {
+                            "id": 42,
+                            "name": "Bulgaria",
+                            "code": "BG"
+                        },
+                        "damage": 75000,
+                        "kills": 1
+                    },
+                    {
+                        "id": 6908418,
+                        "name": "Dzoni Inglis...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/12\/29\/351a523b2429a0dda1b90bb708a00fad_100x100.jpg",
+                        "birth": "2012-12-29",
+                        "country": {
+                            "id": 79,
+                            "name": "Republic of Macedonia (FYROM)",
+                            "code": "MK"
+                        },
+                        "damage": 73794,
+                        "kills": 17
+                    }
+                ]
+            },
+            "2": {
+                "points": 10,
+                "bar": 62.666546683178,
+                "domination": 850,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 3987782,
+                        "name": "szivarvanyla...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2010\/10\/21\/bcda07f22baacb0792891f366737c6b8_100x100.jpg",
+                        "birth": "2010-10-21",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 842648,
+                        "kills": 25
+                    },
+                    {
+                        "id": 6520004,
+                        "name": "Nerthux",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/09\/16\/c2d3b6d2da9041e943d5d132df35b2a2_100x100.jpg",
+                        "birth": "2012-09-16",
+                        "country": {
+                            "id": 26,
+                            "name": "Mexico",
+                            "code": "MX"
+                        },
+                        "damage": 670315,
+                        "kills": 25
+                    },
+                    {
+                        "id": 5742836,
+                        "name": "elliptic90",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/03\/11\/e4bf658684ec352cd6da70517a966f63_100x100.jpg",
+                        "birth": "2012-03-11",
+                        "country": {
+                            "id": 35,
+                            "name": "Poland",
+                            "code": "PL"
+                        },
+                        "damage": 542600,
+                        "kills": 34
+                    },
+                    {
+                        "id": 1457849,
+                        "name": "zsfelfoldi",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/05\/04\/852012c6d2927b8f6ddad946319f4960_100x100.jpg",
+                        "birth": "2009-05-04",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 532656,
+                        "kills": 35
+                    },
+                    {
+                        "id": 2709774,
+                        "name": "Matej Conjar",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2010\/02\/04\/bcc338342fb764fe5f77c34978467392_100x100.jpg",
+                        "birth": "2010-02-04",
+                        "country": {
+                            "id": 61,
+                            "name": "Slovenia",
+                            "code": "SI"
+                        },
+                        "damage": 495594,
+                        "kills": 34
+                    }
+                ]
+            },
+            "3": {
+                "points": 15,
+                "bar": 53.533493499557,
+                "domination": 870,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 4546816,
+                        "name": "Tam&aacute;s V&aacute;ly...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2011\/03\/07\/cd3f80c1540be03cfdcadf0f95a47f77_100x100.jpg",
+                        "birth": "2011-03-07",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 4140675,
+                        "kills": 89
+                    },
+                    {
+                        "id": 3551282,
+                        "name": "Wygwizdow Sz...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2010\/06\/28\/b86d8a23170ba76fd5a2b96be87cf9c6_100x100.jpg",
+                        "birth": "2010-06-28",
+                        "country": {
+                            "id": 35,
+                            "name": "Poland",
+                            "code": "PL"
+                        },
+                        "damage": 3000000,
+                        "kills": 4
+                    },
+                    {
+                        "id": 4734369,
+                        "name": "Dragan Ampov...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2011\/04\/25\/83b800a97e601bdf637340cb42ef5936_100x100.jpg",
+                        "birth": "2011-04-25",
+                        "country": {
+                            "id": 79,
+                            "name": "Republic of Macedonia (FYROM)",
+                            "code": "MK"
+                        },
+                        "damage": 1517696,
+                        "kills": 25
+                    },
+                    {
+                        "id": 2175921,
+                        "name": "Anies Baswed...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/11\/15\/4a45a5ad9468a1f660b628ec025f1605_100x100.jpg",
+                        "birth": "2009-11-15",
+                        "country": {
+                            "id": 49,
+                            "name": "Indonesia",
+                            "code": "ID"
+                        },
+                        "damage": 1371560,
+                        "kills": 32
+                    },
+                    {
+                        "id": 2575166,
+                        "name": "PedroEvagy",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2010\/01\/17\/0fab88be352c173567224416ab3fc24c_100x100.jpg",
+                        "birth": "2010-01-17",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 1212948,
+                        "kills": 33
+                    }
+                ]
+            },
+            "4": {
+                "points": 20,
+                "bar": 52.292334397806,
+                "domination": 860,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 4465683,
+                        "name": "Twixxy",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2011\/02\/15\/c217e00a71ac594c335741be479cfbe4_100x100.jpg",
+                        "birth": "2011-02-15",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 21542208,
+                        "kills": 48
+                    },
+                    {
+                        "id": 1635940,
+                        "name": "Konstruktiva...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/07\/13\/f005e6bba25ef4b025f0cdb8e3061af0_100x100.jpg",
+                        "birth": "2009-07-13",
+                        "country": {
+                            "id": 65,
+                            "name": "Serbia",
+                            "code": "RS"
+                        },
+                        "damage": 10357420,
+                        "kills": 106
+                    },
+                    {
+                        "id": 1637439,
+                        "name": "Hulyeur",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/07\/13\/98a32e5737e1c742a30167eb130001a0_100x100.jpg",
+                        "birth": "2009-07-13",
+                        "country": {
+                            "id": 35,
+                            "name": "Poland",
+                            "code": "PL"
+                        },
+                        "damage": 7985025,
+                        "kills": 75
+                    },
+                    {
+                        "id": 262881,
+                        "name": "sahand",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2008\/04\/22\/9bc3c45594f965d67419a63eb4034924_100x100.jpg",
+                        "birth": "2008-04-22",
+                        "country": {
+                            "id": 13,
+                            "name": "Hungary",
+                            "code": "HU"
+                        },
+                        "damage": 5594120,
+                        "kills": 78
+                    },
+                    {
+                        "id": 2716362,
+                        "name": "Karlista",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2010\/02\/06\/695d89d28b53940f4525e9046e317e6e_100x100.jpg",
+                        "birth": "2010-02-06",
+                        "country": {
+                            "id": 65,
+                            "name": "Serbia",
+                            "code": "RS"
+                        },
+                        "damage": 4907264,
+                        "kills": 53
+                    }
+                ]
+            }
+        }
+    },
+    "defender": {
+        "id": 1,
+        "name": "Romania",
+        "code": "RO",
+        "points": 7,
+        "divisions": {
+            "1": {
+                "points": 2,
+                "bar": 42.99732054639,
+                "domination": 50,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 1560966,
+                        "name": "Aiglos",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/06\/18\/613176701a992ea6da1a59f986c07a98_100x100.jpg",
+                        "birth": "2009-06-18",
+                        "country": {
+                            "id": 63,
+                            "name": "Croatia",
+                            "code": "HR"
+                        },
+                        "damage": 172748,
+                        "kills": 7
+                    },
+                    {
+                        "id": 6892708,
+                        "name": "Yuan Cheng",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/12\/25\/833fc6c47b4045db2bae86a958b3fc8d_100x100.jpg",
+                        "birth": "2012-12-25",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 169891,
+                        "kills": 36
+                    },
+                    {
+                        "id": 6341821,
+                        "name": "nictarazu",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/08\/01\/ecdbfed9efa5f659942199a5fc2c9112_100x100.jpg",
+                        "birth": "2012-08-01",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 104472,
+                        "kills": 26
+                    },
+                    {
+                        "id": 6910673,
+                        "name": "cornel5022",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/12\/29\/e3779a0de5b61400f6eaba0daed718b2_100x100.jpg",
+                        "birth": "2012-12-29",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 103572,
+                        "kills": 29
+                    },
+                    {
+                        "id": 6844580,
+                        "name": "twdog888",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/12\/14\/25fdc2dbb44efdda5e008d24b0c9248f_100x100.jpg",
+                        "birth": "2012-12-14",
+                        "country": {
+                            "id": 81,
+                            "name": "Republic of China (Taiwan)",
+                            "code": "TW"
+                        },
+                        "damage": 74132,
+                        "kills": 18
+                    }
+                ]
+            },
+            "2": {
+                "points": 0,
+                "bar": 37.333453316822,
+                "domination": 30,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 6385217,
+                        "name": "Abatele Fari...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/08\/13\/08f507368b38c36dd7def35d62820e25_100x100.jpg",
+                        "birth": "2012-08-13",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 1201197,
+                        "kills": 38
+                    },
+                    {
+                        "id": 412502,
+                        "name": "Wake",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2008\/05\/26\/544ed6750921a2ec5636ea486870c767_100x100.jpg",
+                        "birth": "2008-05-26",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 713129,
+                        "kills": 46
+                    },
+                    {
+                        "id": 5786317,
+                        "name": "al2css",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/03\/27\/c4f87ba12eeb39025f50c30e0a867bd7_100x100.jpg",
+                        "birth": "2012-03-27",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 542354,
+                        "kills": 16
+                    },
+                    {
+                        "id": 1618939,
+                        "name": "Valixor",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/07\/08\/da7fbe83c4045cc308360897cfcc374b_100x100.jpg",
+                        "birth": "2009-07-08",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 388968,
+                        "kills": 5
+                    },
+                    {
+                        "id": 3126953,
+                        "name": "a.b.83",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2010\/04\/10\/93971a79ff610bb49741316b2fe5527e_100x100.jpg",
+                        "birth": "2010-04-10",
+                        "country": {
+                            "id": 44,
+                            "name": "Greece",
+                            "code": "GR"
+                        },
+                        "damage": 307436,
+                        "kills": 29
+                    }
+                ]
+            },
+            "3": {
+                "points": 0,
+                "bar": 46.466506500443,
+                "domination": 10,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 5625186,
+                        "name": "hcste",
+                        "avatar": "http:\/\/www.erepublik.com\/images\/default_avatars\/Citizens\/default_male_55x55.gif",
+                        "birth": "2012-02-02",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 5482724,
+                        "kills": 297
+                    },
+                    {
+                        "id": 5925152,
+                        "name": "trotuar",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/05\/01\/04f6f302f6096eb9a992f5a8b0f3fbb3_100x100.jpg",
+                        "birth": "2012-05-01",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 1988165,
+                        "kills": 42
+                    },
+                    {
+                        "id": 5361871,
+                        "name": "okty",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2011\/11\/21\/d4043f656188b1e7161a185518ac942f_100x100.jpg",
+                        "birth": "2011-11-21",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 1437930,
+                        "kills": 25
+                    },
+                    {
+                        "id": 5496128,
+                        "name": "niko survivo...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2011\/12\/29\/7c5fc8a6627c383453dbe7ee7b8dd2e5_100x100.jpg",
+                        "birth": "2011-12-29",
+                        "country": {
+                            "id": 44,
+                            "name": "Greece",
+                            "code": "GR"
+                        },
+                        "damage": 1388178,
+                        "kills": 29
+                    },
+                    {
+                        "id": 5898027,
+                        "name": "eTabula Rasa",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2012\/04\/25\/8776609b093012bc7fd4f97e90fafe77_100x100.jpg",
+                        "birth": "2012-04-25",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 1356453,
+                        "kills": 35
+                    }
+                ]
+            },
+            "4": {
+                "points": 5,
+                "bar": 47.707665602194,
+                "domination": 20,
+                "won": false,
+                "top_fighters": [
+                    {
+                        "id": 1957487,
+                        "name": "Calin2009",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/09\/25\/0efdde7c53719f9fa0dab5145fffdb45_100x100.jpg",
+                        "birth": "2009-09-25",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 16079313,
+                        "kills": 142
+                    },
+                    {
+                        "id": 1572723,
+                        "name": "Unikul Sergi...",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/06\/22\/2417260cb6e17b3bccee00a0210f8c20_100x100.jpg",
+                        "birth": "2009-06-22",
+                        "country": {
+                            "id": 1,
+                            "name": "Romania",
+                            "code": "RO"
+                        },
+                        "damage": 5392329,
+                        "kills": 52
+                    },
+                    {
+                        "id": 2416833,
+                        "name": "Vulture-man",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/12\/31\/dab9f062782e7e7ef504aaaea8059922_100x100.jpg",
+                        "birth": "2009-12-31",
+                        "country": {
+                            "id": 63,
+                            "name": "Croatia",
+                            "code": "HR"
+                        },
+                        "damage": 4924188,
+                        "kills": 50
+                    },
+                    {
+                        "id": 125342,
+                        "name": "DrJens",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2008\/02\/27\/343cd5f1a84ebc56b456e1497a65ecdd_100x100.jpg",
+                        "birth": "2008-02-27",
+                        "country": {
+                            "id": 56,
+                            "name": "Iran",
+                            "code": "IR"
+                        },
+                        "damage": 4582380,
+                        "kills": 51
+                    },
+                    {
+                        "id": 2082266,
+                        "name": "Kostas1978",
+                        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/10\/26\/99ad07b2688b4dd7dacba0ba7bb55a4f_100x100.jpg",
+                        "birth": "2009-10-26",
+                        "country": {
+                            "id": 44,
+                            "name": "Greece",
+                            "code": "GR"
+                        },
+                        "damage": 4404834,
+                        "kills": 52
+                    }
+                ]
+            }
+        }
+    },
+    "is_finished": false
+}

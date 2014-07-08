@@ -1,0 +1,75 @@
+{
+    "id": 1765116,
+    "name": "StrozeR",
+    "birth": "2009-08-12",
+    "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Citizens\/2009\/08\/12\/f19db99e9baddad73981d214a6e576ef_100x100.jpg",
+    "online": false,
+    "ban": null,
+    "alive": true,
+    "level": 70,
+    "experience": 225854,
+    "strength": 37400.92,
+    "rank": {
+        "points": 222920773,
+        "level": 64,
+        "image": "http:\/\/www.erepublik.com\/images\/modules\/ranks\/god_of_war_2.png",
+        "name": "God of War**"
+    },
+    "elite_citizen": false,
+    "national_rank": 7,
+    "residence": {
+        "country": {
+            "id": 35,
+            "name": "Poland",
+            "code": "PL"
+        },
+        "region": {
+            "id": 426,
+            "name": "Great Poland"
+        }
+    },
+    "citizenship": {
+        "id": 35,
+        "name": "Poland",
+        "code": "PL"
+    },
+    "about": null,
+    "party": null,
+    "army": {
+        "id": 945,
+        "name": "Polish Civil Army",
+        "role": "2nd Commander",
+        "created_at": "2011-09-08",
+        "avatar": "http:\/\/static.erepublik.com\/uploads\/avatars\/Groups\/2011\/09\/08\/4b6538a44a1dfdc2b83477cd76dee98e_medium.jpg",
+        "rank": "2nd Commander"
+    },
+    "newspaper": {
+        "id": 232419,
+        "role": "Press director",
+        "name": "Empiria"
+    },
+    "top_damage": {
+        "damage": 118176243,
+        "date": "2012-12-10",
+        "message": "Achieved while successfully conquering Black Sea Coast of Turkey from Turkey on day 1,847"
+    },
+    "true_patriot": {
+        "damage": 1143508542,
+        "since": "2012-04-26"
+    },
+    "medals": {
+        "battle_hero": 1082,
+        "campaign_hero": 128,
+        "congress_member": 8,
+        "country_president": 2,
+        "hard_worker": 41,
+        "media_mogul": 2,
+        "mercenary": 12,
+        "resistance_hero": 15,
+        "society_builder": 21,
+        "super_soldier": 149,
+        "top_fighter": 1,
+        "true_patriot": 24
+    },
+    "hit": 13041
+}
